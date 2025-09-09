@@ -1,4 +1,4 @@
-name: RDP
+name: edit-whit-chatJpt
 on:
   workflow_dispatch:
 jobs:
