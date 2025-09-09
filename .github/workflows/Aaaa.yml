@@ -1,4 +1,4 @@
-name: RDP
+name: العادي
 on:
   workflow_dispatch:
 jobs:
